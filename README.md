@@ -11,6 +11,7 @@ A machine learning-based Movie Recommendation System built on the TMDb dataset. 
 ## Live Demo
 Check out the live application here:  
 [Movie Recommender System Live](https://movie-recommender-system-ml-project-prj5gaxvfrcmmvdhksqycs.streamlit.app/)
+note: use VPN if does not work because of TMDB API issue
 
 ## How to Run
 1. Clone the repository.
